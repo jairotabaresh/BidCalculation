@@ -1,0 +1,11 @@
+C:\Users\jarot\source\repos\BidCalculationExample\BidCalculationExample\obj\Debug\BidCalculationExample.csproj.AssemblyReference.cache
+C:\Users\jarot\source\repos\BidCalculationExample\BidCalculationExample\obj\Debug\BidCalculationExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\jarot\source\repos\BidCalculationExample\BidCalculationExample\obj\Debug\BidCalculationExample.Properties.Resources.resources
+C:\Users\jarot\source\repos\BidCalculationExample\BidCalculationExample\obj\Debug\BidCalculationExample.csproj.GenerateResource.cache
+C:\Users\jarot\source\repos\BidCalculationExample\BidCalculationExample\obj\Debug\BidCalculationExample.csproj.CoreCompileInputs.cache
+C:\Users\jarot\source\repos\BidCalculationExample\BidCalculationExample\bin\Debug\BidCalculationExample.exe.config
+C:\Users\jarot\source\repos\BidCalculationExample\BidCalculationExample\bin\Debug\BidCalculationExample.exe
+C:\Users\jarot\source\repos\BidCalculationExample\BidCalculationExample\bin\Debug\BidCalculationExample.pdb
+C:\Users\jarot\source\repos\BidCalculationExample\BidCalculationExample\obj\Debug\BidCalculationExample.exe
+C:\Users\jarot\source\repos\BidCalculationExample\BidCalculationExample\obj\Debug\BidCalculationExample.pdb
+C:\Users\jarot\source\repos\BidCalculationExample\BidCalculationExample\obj\Debug\BidCalculationExample.BidCalculationForm.resources
